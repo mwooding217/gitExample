@@ -1,3 +1,4 @@
-boss, mwooding, Wooding, Mary
-employee, kgupta42, Gupta, Khushboo
+role,NetID,LastName,FirstName
+boss,mwooding,Wooding,Mary
+employee,kgupta42,Gupta,Khushboo
 employee,semelendez,Melendez,Sonya
